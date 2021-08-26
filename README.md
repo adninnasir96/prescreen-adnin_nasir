@@ -7,7 +7,9 @@ Microsoft Machine Learning Studio Experiment Link :
 Question 1 - Attempted
 
 1. a) https://gallery.azure.ai/Experiment/Descriptive-Analysis
+
    b) histogram graph
+   
    c) https://gallery.azure.ai/Experiment/Clustering-Test-1
       https://gallery.azure.ai/Experiment/Clustering-Test-2
 
