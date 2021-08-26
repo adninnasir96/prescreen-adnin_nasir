@@ -11,6 +11,7 @@ Question 1 - Attempted
    b) histogram graph
    
    c) https://gallery.azure.ai/Experiment/Clustering-Test-1
+   
       https://gallery.azure.ai/Experiment/Clustering-Test-2
 
 Question 2 - Attempted 
