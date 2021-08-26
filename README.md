@@ -12,7 +12,7 @@ Question 1 - Attempted
    
    c) https://gallery.azure.ai/Experiment/Clustering-Test-1
    
-        https://gallery.azure.ai/Experiment/Clustering-Test-2
+       https://gallery.azure.ai/Experiment/Clustering-Test-2
 
 Question 2 - Attempted 
 
